@@ -1,0 +1,1 @@
+# copy-paste the urls you want yt-dlp to download (and delete this line before running the script)
